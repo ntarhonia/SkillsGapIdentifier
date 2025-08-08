@@ -6,7 +6,7 @@ Skills Gap Identifier
 
 ## 📝 Description
 
-An AI tool that analyzes project information and conducts dynamic skills with team members to assess their current skills and experience. Based on this data, it creates personalized learning roadmaps with milestone checkpoints, recommended resources, and timeline estimates for skill development.
+An AI tool that analyses project information and dynamically assesses team members' skills to evaluate their current skills and experience. Based on this data, it creates personalised training plans with recommended resources and approximate timelines for skill development.
 
 
 The app has two modes:&#x20;
